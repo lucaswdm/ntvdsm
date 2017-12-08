@@ -1,5 +1,36 @@
 <?php
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	/*function _encripta($n)
 	{
 		return str_rot13(strrev(base_convert($n, 10, 30)));
